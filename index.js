@@ -6,8 +6,8 @@ async function main() {
 	
 	image.print(
 		font,
-		0, //Manual Aling
-		0, //Manual Aling
+		0, //Manual alignment
+		0, //Manual alignment
 		{
 			text: 'B',
 			alignmentX: Jimp.HORIZONTAL_ALIGN_CENTER,
