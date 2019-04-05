@@ -3,20 +3,9 @@ Exercício da matéria de processamento digital de imagens (UNCISAL).
 
 ## Início 
 
-```bash
-# Instalar depêndencias
-npm install
-
-# Excuta o script e vai salvar a imagem na pasta atual
-npm start
-
-```
+Teste [Exemplo](http://brunoeduardo1.github.io/imgpoc-names-first-letter).
 
 ## Informações
-
-### Biblioteca
-
-Biblioteca js utilizada [Jimp](https://github.com/oliver-moran/jimp).
 
 ### Autor
 
